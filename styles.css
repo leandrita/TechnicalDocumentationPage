@@ -1,0 +1,18 @@
+@media  (min-width: 1280px) {
+  body{
+    display: flex;
+  }
+
+  #navbar{
+    width: 25%;
+  }
+
+  #main-doc{
+    width: 70%;
+  }
+}
+
+a{
+  text-decoration: none;
+  color: blue;
+}
